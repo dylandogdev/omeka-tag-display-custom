@@ -21,3 +21,7 @@ This code meets the above requirements. I have also included a CSS file with the
 Presently I have altered the `tag_cloud` function in the globals.php Omeka application file. You can add this code as a replacement to in that file or implement and call the code as a new function.
 
 **I intend to expland this code into a robust plugin but I am publishing what I have now in the interest of sharing my approach since I have seen many people interested in doing something like this at the function level in Omeka. Stay tuned.
+
+![Screenshot](screengrabs/screen_grab_1.PNG)
+
+![Screenshot 2](screengrabs/screen_grab_2.PNG)
