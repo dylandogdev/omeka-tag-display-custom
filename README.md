@@ -22,6 +22,6 @@ Presently I have altered the `tag_cloud` function in the globals.php Omeka appli
 
 **I intend to expland this code into a robust plugin but I am publishing what I have now in the interest of sharing my approach since I have seen many people interested in doing something like this at the function level in Omeka. Stay tuned.
 
-![Screenshot](screengrabs/screen_grab_1.PNG)
+![Screenshot](screengrabs/screen_grab_1.png)
 
-![Screenshot 2](screengrabs/screen_grab_2.PNG)
+![Screenshot 2](screengrabs/screen_grab_2.png)
