@@ -1,4 +1,4 @@
-#Omeka Custom Tags Display
+## Omeka Custom Tags Display
 
 I created this code as part of a feature request for our site at https://www.digitalcollections.eku.edu where the ask was to dynamically generate a navigation bar for the Browse Tags page.
 
@@ -16,8 +16,8 @@ Functional requests were:
 
 This code meets the above requirements. I have also included a CSS file with the styling I implemented on our website as an example.
 
-##Implementation
+### Implementation
 
 Presently I have altered the `tag_cloud` function in the globals.php Omeka application file. You can add this code as a replacement to in that file or implement and call the code as a new function.
 
-I intend to expland this code into a robust plugin but I am publishing what I have now in the interest of sharing my approach since I have seen many people interested in doing something like this at the function level in Omeka. Stay tuned.
+**I intend to expland this code into a robust plugin but I am publishing what I have now in the interest of sharing my approach since I have seen many people interested in doing something like this at the function level in Omeka. Stay tuned.
