@@ -20,7 +20,7 @@
         content: 'Special Characters';
     }
 
-    #0-9 .navSymbol:after {
+   .navSymbol:after {
         content: '0-9';
     }
     
